@@ -11,6 +11,8 @@ https://github.com/MyDearGreatTeacher/Python/tree/master/MachineLearning
 # scikit-learn Preprocessing
 http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing
 
+http://sklearn.apachecn.org/cn/0.19.0/index.html # 中文版
+
 
 # 載入 Tensorflow.ova
 
