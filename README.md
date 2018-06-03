@@ -7,6 +7,10 @@ https://github.com/MyDearGreatTeacher/Python/blob/master/MachineLearning/%E6%9C%
 # 偉大恩師的ML
 https://github.com/MyDearGreatTeacher/Python/tree/master/MachineLearning
 
+# 下載
+https://github.com/PacktPublishing/Python-Machine-Learning-Cookbook
+
+
 
 # scikit-learn Preprocessing
 http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing
